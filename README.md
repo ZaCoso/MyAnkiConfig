@@ -34,7 +34,7 @@ Or when you are in the folder replace `__init__.py` with the one on this reposit
 
 ### 3) Different Shortcuts for Flags:
 You cannot use the aforementioned "Text Colors" if you do not change the flags shorcuts.
-1) Go to `Tools → Add-ons → Select "Customize Keyboard Shortcuts" add-on → Config→ Copy and paste the config file` or `change each flag to Alt+(the number you want)` .
+1) Go to `Tools → Add-ons → Select "Customize Keyboard Shortcuts" add-on → Config → Copy and paste the config file` or `change each flag to Alt+(the number you want)` .
 
 ### Example:
 "flag1": "Alt+1", <br>
@@ -42,6 +42,10 @@ You cannot use the aforementioned "Text Colors" if you do not change the flags s
 "flag3": "Alt+3", <br>
 "flag4": "Alt+4"
 
-### 4) Close and open anki.
+### 4) Optional - remap shortcut of the clean paste:
+If you want to change the shorcut of the paste without filter from `Ctrl+Alt+v` to `Ctrl+Shift+z` or wichiever you want.
+Go to `Tools → Add-ons → Select "Customize Keyboard Shortcuts" add-on → Config → and change "full html shortcut": "Ctrl+Alt+z" to your liking`
+
+### 5) Close and open anki.
 
 
