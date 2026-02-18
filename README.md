@@ -37,10 +37,10 @@ You cannot use the aforementioned "Text Colors" if you do not change the flags s
 1) Go to `Tools → Add-ons → Select "Customize Keyboard Shortcuts" add-on → Config → Copy and paste the config file` or `change each flag to Alt+(the number you want)` .
 
 ### Example:
-"flag1": "Alt+1", <br>
-"flag2": "Alt+2", <br>
-"flag3": "Alt+3", <br>
-"flag4": "Alt+4"
+`"flag1": "Alt+1",` <br>
+`"flag2": "Alt+2",` <br>
+`"flag3": "Alt+3",` <br>
+`"flag4": "Alt+4"`
 
 ### 4) Optional - remap shortcut of the clean paste:
 If you want to change the shorcut of the paste without filter from `Ctrl+Alt+v` to `Ctrl+Shift+z` or wichiever you want.
