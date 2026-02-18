@@ -23,6 +23,9 @@ This setup removes unnecessary editor friction when creating or editing cards, a
 
 Designed for heavy daily use where small time losses compound into real inefficiency.
 
+## How to use
+Just copy and paste the files into an add-on. Go to `Tools → Add-ons → Select "editor: paste raw unfiltered full html" add-on → View Files → Open "__init__.py" → paste the code below`
+
 ## Add-ons used:
 * editor: paste raw unfiltered full html, 1765712663
 * Customize Keyboard Shortcuts, 24411424
