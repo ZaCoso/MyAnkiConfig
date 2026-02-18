@@ -24,10 +24,24 @@ This setup removes unnecessary editor friction when creating or editing cards, a
 Designed for heavy daily use where small time losses compound into real inefficiency.
 
 ## How to use
-Just copy and paste the files into an add-on. Go to `Tools → Add-ons → Select "editor: paste raw unfiltered full html" add-on → View Files → Open "__init__.py" → paste the code below`
-
-## Add-ons used:
+### 1) Download these Add-ons:
 * editor: paste raw unfiltered full html, 1765712663
 * Customize Keyboard Shortcuts, 24411424
+
+### 2) Text Colors
+1) Copy and paste the files into an add-on. In Anki go to `Tools → Add-ons → Select "editor: paste raw unfiltered full html" add-on → View Files → Open "__init__.py" → paste the code below`. 
+Or when you are in the folder replace `__init__.py` with the one on this repository.
+
+### 3) Different Shortcuts for Flags:
+You cannot use the aforementioned "Text Colors" if you do not change the flags shorcuts.
+1) Go to `Tools → Add-ons → Select "Customize Keyboard Shortcuts" add-on → Config→ Copy and paste the config file` or `change each flag to Alt+(the number you want)` .
+
+### Example:
+"flag1": "Alt+1", <br>
+"flag2": "Alt+2", <br>
+"flag3": "Alt+3", <br>
+"flag4": "Alt+4"
+
+### 4) Close and open anki.
 
 
